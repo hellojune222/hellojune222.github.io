@@ -1,0 +1,71 @@
+.concent{
+      height: 700px;
+      width: 100%;
+      background-color: rgb(139, 19, 15);
+
+
+}
+.name{
+      height: 150px;
+      width: 100%;
+      background-color:white;
+      margin-bottom: 20px;
+
+}
+.biaoti1{
+      font-family:mySecondFont;/*字体设置*/
+      width: 100%;
+      padding-top:1%;
+      font-size:55px;
+      color: rgb(36, 153, 85);
+      float: left;
+
+  }
+.biaoti2{
+      font-family:myFirstFont;/*字体设置*/
+      padding-top:1%;
+      font-size:40px;
+      color: rgb(36, 153, 85);
+      clear: left;
+      padding-left: 10%;
+      
+  }
+.middle{
+      padding-top: 10px;
+      height: 550px;
+      max-width: 1000px;
+      background-color:white;
+      margin: 0 auto; 
+
+
+}
+.middle2{
+      padding-top: 10px;
+      height: 500px;
+      max-width: 500px;
+      background-color:white;
+      margin: 0 auto; 
+
+
+}
+.jieguo{
+      font-family:myFirstFont;/*字体设置*/
+      padding-top:1%;
+      font-size:20px;
+      color: rgb(36, 153, 85);
+     
+}
+#change{
+      font-family:myFirstFont;/*字体设置*/
+      padding-top:1%;
+      font-size:20px;
+      color: rgb(36, 153, 85);
+     
+}
+#color{
+      font-family:myFirstFont;/*字体设置*/
+      padding-top:1%;
+      font-size:20px;
+      color: rgb(36, 153, 85);
+     
+}
